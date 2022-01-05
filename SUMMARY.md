@@ -6,8 +6,7 @@
 
 * [Creating Your First Project](guides/creating-your-first-project.md)
 * [Uploading Image Layers](guides/uploading-image-layers/README.md)
-  * [Uploading image layers](guides/uploading-image-layers/uploading-image-layers.md)
-  * [Configuring rarity](guides/uploading-image-layers/configuring-rarity.md)
+  * [Configuring Rarity](guides/uploading-image-layers/configuring-rarity.md)
 * [Generating Artwork](guides/generating-artwork.md)
 * [Minting your NFTs](guides/minting-your-nfts/README.md)
   * [Random Mint Pages](guides/minting-your-nfts/random-mint-pages.md)
@@ -20,6 +19,10 @@
 * [What is Minting?](fundamentals/what-is-minting.md)
 * [Ethereum vs Polygon](fundamentals/ethereum-vs-polygon.md)
 * [Paying Gas](fundamentals/paying-gas.md)
+* [Ethereum Wallets](fundamentals/ethereum-wallets/README.md)
+  * [MetaMask](fundamentals/ethereum-wallets/metamask.md)
+  * [Wallet Connect](fundamentals/ethereum-wallets/wallet-connect.md)
+  * [Coinbase Wallet](fundamentals/ethereum-wallets/coinbase-wallet.md)
 
 ## Use Cases
 

@@ -1,13 +1,15 @@
-# Creating your first project
+# Creating Your First Project
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+## Connect your wallet
 
-## The basics
-
-Projects are containers for task lists. Think of them as a library for everything your team needs to get done to complete or ship a project.
+To create your NFT collection, you will need to have an Crypto Wallet. If you do not have a wallet yet, you can read the [Crypto wallet fundamentals](../fundamentals/ethereum-wallets/). We recommend using MetaMask for desktop browsers if you don't yet have one.
 
 ## Creating a project
 
-Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
+Hit the big '+ Create Project' button once you have signed in to create a new project
+
+## The project editor
+
+Once you've created your project you will see an empty project editor. There will be a preview image on the left, for viewing previews of your NFTs.
+
+On the right you will see the layer panes, where we will upload the different image layers of our image.
