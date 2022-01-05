@@ -5,14 +5,12 @@ description: The new standard for creating and launching NFT collections on the 
 # What is AutoMinter?
 
 {% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
+**Get The Basics:** If you are new to the world of crypto and NFTs, you can start by reading the [fundamentals ](broken-reference)for an introduction to concepts like "_minting_" and "_blockchains_".
 {% endhint %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+AutoMinter is a tool for creating NFT collections (_Like "Bored Ape Yacht Club" and "CryptoPunks"_)
 
-AutoMinter is a tool for creating NFT collections on Ethereum Blockchains
-
-With AutoMinter, you can generate large NFT collections by uploading image layers allowing people to mint your NFT's and sell the on secondary marketplaces like OpenSea.
+With AutoMinter, you can generate large NFT collections by uploading image layers, allowing people to mint your NFTs and sell them on secondary marketplaces like OpenSea.
 
 ## Getting Started
 
@@ -21,10 +19,6 @@ With AutoMinter, you can generate large NFT collections by uploading image layer
 {% embed url="https://youtu.be/G0wdVjBY70Q" %}
 AutoMinter Product Demo
 {% endembed %}
-
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
 
 ### Guides: Jump right in
 
@@ -38,10 +32,6 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [uploading-image-layers.md](guides/uploading-image-layers/uploading-image-layers.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/uploading-image-layers/configuring-rarity.md" %}
-[configuring-rarity.md](guides/uploading-image-layers/configuring-rarity.md)
-{% endcontent-ref %}
-
 {% content-ref url="guides/generating-artwork.md" %}
 [generating-artwork.md](guides/generating-artwork.md)
 {% endcontent-ref %}
@@ -53,14 +43,6 @@ Follow our handy guides to get started on the basics as quickly as possible:
 {% content-ref url="guides/performing-airdrops.md" %}
 [performing-airdrops.md](guides/performing-airdrops.md)
 {% endcontent-ref %}
-
-{% content-ref url="guides/minting-your-nfts/getting-my-collection-on-opensea.md" %}
-[getting-my-collection-on-opensea.md](guides/minting-your-nfts/getting-my-collection-on-opensea.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
 
 ### Fundamentals: Dive a little deeper
 
@@ -78,10 +60,6 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [ethereum-vs-polygon.md](fundamentals/ethereum-vs-polygon.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
+**Join the Discord:** For help on all things NFT. Join the AutoMinter discord and be part of the growing community of NFT creators [here](https://discord.gg/qDTfyZFn9h)
 {% endhint %}
