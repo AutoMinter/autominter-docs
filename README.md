@@ -42,6 +42,22 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [configuring-rarity.md](guides/configuring-rarity.md)
 {% endcontent-ref %}
 
+{% content-ref url="guides/generating-artwork.md" %}
+[generating-artwork.md](guides/generating-artwork.md)
+{% endcontent-ref %}
+
+{% content-ref url="guides/minting-your-nfts.md" %}
+[minting-your-nfts.md](guides/minting-your-nfts.md)
+{% endcontent-ref %}
+
+{% content-ref url="guides/performing-airdrops.md" %}
+[performing-airdrops.md](guides/performing-airdrops.md)
+{% endcontent-ref %}
+
+{% content-ref url="guides/getting-my-collection-on-opensea.md" %}
+[getting-my-collection-on-opensea.md](guides/getting-my-collection-on-opensea.md)
+{% endcontent-ref %}
+
 {% hint style="info" %}
 **Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
 {% endhint %}
@@ -50,20 +66,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="fundamentals/what-are-nfts.md" %}
+[what-are-nfts.md](fundamentals/what-are-nfts.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="fundamentals/what-is-minting.md" %}
+[what-is-minting.md](fundamentals/what-is-minting.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
+{% content-ref url="fundamentals/ethereum-vs-polygon.md" %}
+[ethereum-vs-polygon.md](fundamentals/ethereum-vs-polygon.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}

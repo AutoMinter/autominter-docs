@@ -10,22 +10,22 @@
 * [Generating Artwork](guides/generating-artwork.md)
 * [Minting your NFTs](guides/minting-your-nfts.md)
 * [Performing Airdrops](guides/performing-airdrops.md)
+* [Getting my collection on OpenSea](guides/getting-my-collection-on-opensea.md)
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [What are NFTs](fundamentals/what-are-nfts.md)
+* [What is Minting](fundamentals/what-is-minting.md)
+* [Ethereum vs Polygon](fundamentals/ethereum-vs-polygon.md)
 
 ## Use Cases
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [Generative art](use-cases/generative-art/README.md)
+  * [Figma Integration](use-cases/generative-art/figma-integration.md)
+* [Mint Passes](use-cases/mint-passes/README.md)
+  * [GitHub Integration](use-cases/mint-passes/github-integration.md)
+* [Member Passes](use-cases/member-passes/README.md)
+  * [Intercom Integration](use-cases/member-passes/intercom-integration.md)
 
 ## Extras
 
