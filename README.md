@@ -5,7 +5,7 @@ description: The new standard for creating and launching NFT collections on the 
 # What is AutoMinter?
 
 {% hint style="info" %}
-**Get The Basics:** If you are new to the world of crypto and NFTs, you can start by reading the [fundamentals ](broken-reference)for an introduction to concepts like "_minting_" and "_blockchains_".
+**The Basics:** If you are new to the world of crypto and NFTs, start by reading [the fundamentals](broken-reference) for an introduction to concepts like "_minting_" and "_blockchains_".
 {% endhint %}
 
 AutoMinter is a tool for creating NFT collections (_Like "Bored Ape Yacht Club" and "CryptoPunks"_)
@@ -44,9 +44,9 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [performing-airdrops.md](guides/performing-airdrops.md)
 {% endcontent-ref %}
 
-### Fundamentals: Dive a little deeper
+### Fundamentals: Core NFT Concepts
 
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
+Learn the fundamentals of NFTs to get a deeper understanding of our main concepts:
 
 {% content-ref url="fundamentals/what-are-nfts.md" %}
 [what-are-nfts.md](fundamentals/what-are-nfts.md)
