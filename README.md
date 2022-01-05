@@ -34,28 +34,28 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [creating-your-first-project.md](guides/creating-your-first-project.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/uploading-image-layers.md" %}
-[uploading-image-layers.md](guides/uploading-image-layers.md)
+{% content-ref url="guides/uploading-image-layers/uploading-image-layers.md" %}
+[uploading-image-layers.md](guides/uploading-image-layers/uploading-image-layers.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/configuring-rarity.md" %}
-[configuring-rarity.md](guides/configuring-rarity.md)
+{% content-ref url="guides/uploading-image-layers/configuring-rarity.md" %}
+[configuring-rarity.md](guides/uploading-image-layers/configuring-rarity.md)
 {% endcontent-ref %}
 
 {% content-ref url="guides/generating-artwork.md" %}
 [generating-artwork.md](guides/generating-artwork.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/minting-your-nfts.md" %}
-[minting-your-nfts.md](guides/minting-your-nfts.md)
+{% content-ref url="guides/minting-your-nfts/" %}
+[minting-your-nfts](guides/minting-your-nfts/)
 {% endcontent-ref %}
 
 {% content-ref url="guides/performing-airdrops.md" %}
 [performing-airdrops.md](guides/performing-airdrops.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/getting-my-collection-on-opensea.md" %}
-[getting-my-collection-on-opensea.md](guides/getting-my-collection-on-opensea.md)
+{% content-ref url="guides/minting-your-nfts/getting-my-collection-on-opensea.md" %}
+[getting-my-collection-on-opensea.md](guides/minting-your-nfts/getting-my-collection-on-opensea.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

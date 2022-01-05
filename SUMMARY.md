@@ -4,24 +4,26 @@
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Uploading image layers](guides/uploading-image-layers.md)
-* [Configuring rarity](guides/configuring-rarity.md)
+* [Creating Your First Project](guides/creating-your-first-project.md)
+* [Uploading Image Layers](guides/uploading-image-layers/README.md)
+  * [Uploading image layers](guides/uploading-image-layers/uploading-image-layers.md)
+  * [Configuring rarity](guides/uploading-image-layers/configuring-rarity.md)
 * [Generating Artwork](guides/generating-artwork.md)
-* [Minting your NFTs](guides/minting-your-nfts.md)
+* [Minting your NFTs](guides/minting-your-nfts/README.md)
+  * [Random Mint Pages](guides/minting-your-nfts/random-mint-pages.md)
+  * [Getting my collection on OpenSea](guides/minting-your-nfts/getting-my-collection-on-opensea.md)
 * [Performing Airdrops](guides/performing-airdrops.md)
-* [Getting my collection on OpenSea](guides/getting-my-collection-on-opensea.md)
 
 ## Fundamentals
 
-* [What are NFTs](fundamentals/what-are-nfts.md)
-* [What is Minting](fundamentals/what-is-minting.md)
+* [What are NFTs?](fundamentals/what-are-nfts.md)
+* [What is Minting?](fundamentals/what-is-minting.md)
 * [Ethereum vs Polygon](fundamentals/ethereum-vs-polygon.md)
+* [Paying Gas](fundamentals/paying-gas.md)
 
 ## Use Cases
 
-* [Generative art](use-cases/generative-art/README.md)
-  * [Figma Integration](use-cases/generative-art/figma-integration.md)
+* [Generative Art (PFPs)](use-cases/generative-art-pfps.md)
 * [Mint Passes](use-cases/mint-passes/README.md)
   * [GitHub Integration](use-cases/mint-passes/github-integration.md)
 * [Member Passes](use-cases/member-passes/README.md)
