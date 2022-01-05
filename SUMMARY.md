@@ -1,12 +1,15 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [What is AutoMinter?](README.md)
 
 ## Guides
 
 * [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Uploading image layers](guides/uploading-image-layers.md)
+* [Configuring rarity](guides/configuring-rarity.md)
+* [Generating Artwork](guides/generating-artwork.md)
+* [Minting your NFTs](guides/minting-your-nfts.md)
+* [Performing Airdrops](guides/performing-airdrops.md)
 
 ## Fundamentals
 

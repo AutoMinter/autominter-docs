@@ -1,4 +1,8 @@
-# What is MyProduct?
+---
+description: The new standard for creating and launching NFT collections on the blockchain
+---
+
+# What is AutoMinter?
 
 {% hint style="info" %}
 **Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
@@ -6,21 +10,17 @@
 
 Here are a couple of examples of succinct overviews from products with really great docs:
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+AutoMinter is a tool for creating NFT collections on Ethereum Blockchains
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+With AutoMinter, you can generate large NFT collections by uploading image layers allowing people to mint your NFT's and sell the on secondary marketplaces like OpenSea.
 
 ## Getting Started
 
-**Got 2 minutes?** Check out a video overview of our product:
+**Got 5 minutes?** Check out a video overview of our product:
 
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
+{% embed url="https://youtu.be/G0wdVjBY70Q" %}
+AutoMinter Product Demo
+{% endembed %}
 
 {% hint style="info" %}
 **Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
@@ -34,12 +34,12 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [creating-your-first-project.md](guides/creating-your-first-project.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="guides/uploading-image-layers.md" %}
+[uploading-image-layers.md](guides/uploading-image-layers.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
+{% content-ref url="guides/configuring-rarity.md" %}
+[configuring-rarity.md](guides/configuring-rarity.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
