@@ -28,8 +28,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [creating-your-first-project.md](guides/creating-your-first-project.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="guides/uploading-image-layers/" %}
+[uploading-image-layers](guides/uploading-image-layers/)
 {% endcontent-ref %}
 
 {% content-ref url="guides/generating-artwork.md" %}
