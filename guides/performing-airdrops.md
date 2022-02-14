@@ -8,7 +8,7 @@ AutoMinter makes it easy to perform Airdrops, which enables you to give away NFT
 
 ## Send individual Airdrops
 
-Once your collection is created and added to the blockchain. You can enter a token ID of the NFT you would like to airdrop along with the address of the wallet you would like to send the NFT too.
+Once your collection is created and added to the blockchain you can enter a token ID of the NFT you would like to airdrop along with the address of the wallet you would like to send the NFT too.
 
 {% hint style="warning" %}
 You will receive an error if you try to airdrop and NFT which has already been minted.
