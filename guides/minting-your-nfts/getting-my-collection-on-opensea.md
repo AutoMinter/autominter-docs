@@ -1,6 +1,6 @@
 # Getting my collection on OpenSea
 
-Once individual NFTs in your collection have been minted. They will automatically be available on OpenSea. To view your collection, you must simply sign into opensea and your collection will AutoMatically be imported
+Once individual NFTs in your collection have been minted they will automatically be available on OpenSea. To view your collection, you must simply sign into OpenSea and your collection will automatically be imported.
 
 
 
