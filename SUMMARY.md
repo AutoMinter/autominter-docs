@@ -31,7 +31,3 @@
   * [GitHub Integration](use-cases/mint-passes/github-integration.md)
 * [Member Passes](use-cases/member-passes/README.md)
   * [Intercom Integration](use-cases/member-passes/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
