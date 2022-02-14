@@ -4,9 +4,9 @@ description: Give away free NFT's to peoples wallet address
 
 # Performing Airdrops
 
-AutoMinter makes it easy to perform AirDrops, enabling you to give people NFTs. This means the receiver can receive the NFT without having to pay gas. Which is great for promotions and rewarding active community members and contributors with NFTs.
+AutoMinter makes it easy to perform Airdrops, which enables you to give away NFTs for free! This means the receiver can acquire an NFT without having to pay any fees. This concept is great for promotions and rewarding active community members and contributors
 
-## Send individual AirDrops
+## Send individual Airdrops
 
 Once your collection is created and added to the blockchain. You can enter a token ID of the NFT you would like to airdrop along with the address of the wallet you would like to send the NFT too.
 
@@ -15,5 +15,5 @@ You will receive an error if you try to airdrop and NFT which has already been m
 {% endhint %}
 
 {% hint style="info" %}
-**Bulk AirDrops**: Sending NFTs to multiple addresses at once is not yet supported.
+**Bulk Airdrops**: Sending NFTs to multiple addresses at once is not yet supported.
 {% endhint %}
