@@ -12,6 +12,7 @@
   * [Random Mint Pages](guides/minting-your-nfts/random-mint-pages.md)
   * [Getting my collection on OpenSea](guides/minting-your-nfts/getting-my-collection-on-opensea.md)
 * [Performing Airdrops](guides/performing-airdrops.md)
+* [1/1s and groups](guides/1-1s-and-groups.md)
 
 ## Fundamentals
 
