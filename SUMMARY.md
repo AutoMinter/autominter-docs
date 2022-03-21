@@ -20,6 +20,7 @@
 * [What is Minting?](fundamentals/what-is-minting.md)
 * [Ethereum vs Polygon](fundamentals/ethereum-vs-polygon.md)
 * [Paying Gas](fundamentals/paying-gas.md)
+* [Pricing](fundamentals/pricing.md)
 * [Ethereum Wallets](fundamentals/ethereum-wallets/README.md)
   * [MetaMask](fundamentals/ethereum-wallets/metamask.md)
   * [Wallet Connect](fundamentals/ethereum-wallets/wallet-connect.md)
