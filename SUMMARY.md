@@ -25,6 +25,7 @@
   * [MetaMask](fundamentals/ethereum-wallets/metamask.md)
   * [Wallet Connect](fundamentals/ethereum-wallets/wallet-connect.md)
   * [Coinbase Wallet](fundamentals/ethereum-wallets/coinbase-wallet.md)
+* [Change Network](fundamentals/change-network.md)
 
 ## Use Cases
 
