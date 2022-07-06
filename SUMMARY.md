@@ -6,6 +6,38 @@
 
 * [Quick Start](getting-started/quick-start.md)
 
+## Collection Editor
+
+* [Uploading Images](collection-editor/uploading-images.md)
+* [Rarity + Metadata](collection-editor/rarity-+-metadata.md)
+* [Groups + 1/1s](collection-editor/groups-+-1-1s.md)
+* [Generating Artwork](collection-editor/generating-artwork.md)
+
+## Adding to blockchain
+
+* [Deployment options](adding-to-blockchain/deployment-options.md)
+* [Choosing a network](adding-to-blockchain/choosing-a-network.md)
+* [IPFS Syncing](adding-to-blockchain/ipfs-syncing.md)
+
+## Collection Manager
+
+* [Customize Mint Pages](collection-manager/customize-mint-pages.md)
+* [Sending Airdrops](collection-manager/sending-airdrops.md)
+* [Delayed Reveal](collection-manager/delayed-reveal.md)
+* [Using a Whitelist](collection-manager/using-a-whitelist.md)
+* [Toggle public mint](collection-manager/toggle-public-mint.md)
+* [Add mint button to a website](collection-manager/add-mint-button-to-a-website.md)
+* [Changing mint fees](collection-manager/changing-mint-fees.md)
+
+## Minting
+
+* [How to Mint](minting/how-to-mint.md)
+* [Gas Fees](minting/gas-fees.md)
+
+## Whitelists
+
+* [Create a whitelist form](whitelists/create-a-whitelist-form.md)
+
 ## Guides
 
 * [Creating Your First Project](guides/creating-your-first-project.md)
