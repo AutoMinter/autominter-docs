@@ -41,15 +41,16 @@
 
 ## Guides
 
-* [Creating Your First Project](guides/creating-your-first-project.md)
-* [Uploading Image Layers](guides/uploading-image-layers/README.md)
-  * [Configuring Rarity](guides/uploading-image-layers/configuring-rarity.md)
-* [Generating Artwork](guides/generating-artwork.md)
-* [Minting your NFTs](guides/minting-your-nfts/README.md)
-  * [Random Mint Pages](guides/minting-your-nfts/random-mint-pages.md)
-  * [Getting my collection on OpenSea](guides/minting-your-nfts/getting-my-collection-on-opensea.md)
-* [Performing Airdrops](guides/performing-airdrops.md)
-* [1/1s and groups](guides/1-1s-and-groups.md)
+* [Legacy guides](guides/legacy-guides/README.md)
+  * [Creating Your First Project](guides/legacy-guides/creating-your-first-project.md)
+  * [Uploading Image Layers](guides/legacy-guides/uploading-image-layers/README.md)
+    * [Configuring Rarity](guides/legacy-guides/uploading-image-layers/configuring-rarity.md)
+  * [Generating Artwork](guides/legacy-guides/generating-artwork.md)
+  * [Minting your NFTs](guides/legacy-guides/minting-your-nfts/README.md)
+    * [Random Mint Pages](guides/legacy-guides/minting-your-nfts/random-mint-pages.md)
+    * [Getting my collection on OpenSea](guides/legacy-guides/minting-your-nfts/getting-my-collection-on-opensea.md)
+  * [Performing Airdrops](guides/legacy-guides/performing-airdrops.md)
+  * [1/1s and groups](guides/legacy-guides/1-1s-and-groups.md)
 
 ## Fundamentals
 
@@ -64,10 +65,16 @@
   * [Coinbase Wallet](fundamentals/ethereum-wallets/coinbase-wallet.md)
 * [Change Network](fundamentals/change-network.md)
 
-## Use Cases
+## Pricing
 
-* [Generative Art (PFPs)](use-cases/generative-art-pfps.md)
-* [Mint Passes](use-cases/mint-passes/README.md)
-  * [GitHub Integration](use-cases/mint-passes/github-integration.md)
-* [Member Passes](use-cases/member-passes/README.md)
-  * [Intercom Integration](use-cases/member-passes/intercom-integration.md)
+* [Our Fees](pricing/our-fees.md)
+* [Gas Fees](pricing/gas-fees.md)
+
+## Resources
+
+* [FAQ](resources/faq.md)
+* [Support](resources/support.md)
+
+## PRO Pass
+
+* [About the PRO Pass](pro-pass/about-the-pro-pass.md)

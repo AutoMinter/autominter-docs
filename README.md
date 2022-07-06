@@ -26,24 +26,24 @@ AutoMinter Product Demo
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% content-ref url="guides/legacy-guides/creating-your-first-project.md" %}
+[creating-your-first-project.md](guides/legacy-guides/creating-your-first-project.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/uploading-image-layers/" %}
-[uploading-image-layers](guides/uploading-image-layers/)
+{% content-ref url="guides/legacy-guides/uploading-image-layers/" %}
+[uploading-image-layers](guides/legacy-guides/uploading-image-layers/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/generating-artwork.md" %}
-[generating-artwork.md](guides/generating-artwork.md)
+{% content-ref url="guides/legacy-guides/generating-artwork.md" %}
+[generating-artwork.md](guides/legacy-guides/generating-artwork.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/minting-your-nfts/" %}
-[minting-your-nfts](guides/minting-your-nfts/)
+{% content-ref url="guides/legacy-guides/minting-your-nfts/" %}
+[minting-your-nfts](guides/legacy-guides/minting-your-nfts/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/performing-airdrops.md" %}
-[performing-airdrops.md](guides/performing-airdrops.md)
+{% content-ref url="guides/legacy-guides/performing-airdrops.md" %}
+[performing-airdrops.md](guides/legacy-guides/performing-airdrops.md)
 {% endcontent-ref %}
 
 ### Fundamentals: Core NFT Concepts

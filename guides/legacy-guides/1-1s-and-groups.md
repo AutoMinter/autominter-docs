@@ -6,6 +6,6 @@ You can use AutoMinter to create groups add 1/1s in your collection. For example
 \
 To create these, you must create a group in the collection editor. These are treated as separate generations and are combined into the same collection. When you generate your artwork, you must specify the number to be generated from each group.
 
-![](../.gitbook/assets/groups-button.png)
+![](../../.gitbook/assets/groups-button.png)
 
-![](<../.gitbook/assets/groups-screenshot (1).png>)
+![](<../../.gitbook/assets/groups-screenshot (1).png>)
