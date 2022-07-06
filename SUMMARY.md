@@ -33,6 +33,7 @@
 
 * [How to Mint](minting/how-to-mint.md)
 * [Gas Fees](minting/gas-fees.md)
+* [Troubleshooting](minting/troubleshooting.md)
 
 ## Whitelists
 
