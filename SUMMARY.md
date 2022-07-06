@@ -78,3 +78,7 @@
 ## PRO Pass
 
 * [About the PRO Pass](pro-pass/about-the-pro-pass.md)
+
+## Troubleshooting
+
+* [Wrong Network](troubleshooting/wrong-network.md)
