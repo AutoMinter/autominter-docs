@@ -2,6 +2,10 @@
 
 * [What is AutoMinter?](README.md)
 
+## Getting Started
+
+* [Quick Start](getting-started/quick-start.md)
+
 ## Guides
 
 * [Creating Your First Project](guides/creating-your-first-project.md)
