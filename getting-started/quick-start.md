@@ -6,9 +6,13 @@ This page summarizes all the essential things you need to know to start using Au
 
 In order to use AutoMinter, you'll need a crypto wallet. You'll most likely install either a browser extension (like metamask) or connect with a mobile wallet in an app.
 
-![Y](<../.gitbook/assets/image (1) (1).png>)
+![Y](<../.gitbook/assets/image (1) (1) (1).png>)
 
 To learn to setup and connecting your wallet:&#x20;
+
+{% content-ref url="../fundamentals/ethereum-wallets/" %}
+[ethereum-wallets](../fundamentals/ethereum-wallets/)
+{% endcontent-ref %}
 
 
 
@@ -16,7 +20,7 @@ To learn to setup and connecting your wallet:&#x20;
 
 When you create an NFT project in AutoMinter you will see the collection editor. Here you can upload the layer images that will make up your NFTs. As well as be able to configure thing like rarity and metadata. This is where you will generate your final artwork.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 
 
@@ -40,7 +44,7 @@ When you create an NFT project in AutoMinter you will see the collection editor.
 
 Once you're artwork has been generated, it must be added to the blockchain, which is turning your collection into actual NFTs. In this step you will have the option to customise your deployment to suite your project
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 {% content-ref url="../adding-to-blockchain/deployment-options.md" %}
 [deployment-options.md](../adding-to-blockchain/deployment-options.md)
@@ -58,7 +62,7 @@ Once you're artwork has been generated, it must be added to the blockchain, whic
 
 Once your collection is on the blockchain you will be able to manage it from within AutoMinter. Here you can do such things as send "Airdrops", manage who is able to mint, and reveal the artwork if you chose to delay the revealing of the artwork.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 {% content-ref url="../collection-manager/customize-mint-pages.md" %}
 [customize-mint-pages.md](../collection-manager/customize-mint-pages.md)

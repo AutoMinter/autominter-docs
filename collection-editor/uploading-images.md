@@ -17,3 +17,7 @@ The recommended size for your image layers is 500x500 but you can choose anythin
 ## Upload similar images to the same layer
 
 You should upload each image into AutoMinter into the same layer. For example all "Hats" should be uploaded to the same layer. You can reorder the layers by selecting "move up" or "move down" from the menu on the layer.
+
+## Optional + Blank Images
+
+If you want an image to be optional within a layer, you should upload a transparent image of the same dimensions. This image will show up as invisible.

@@ -1,6 +1,6 @@
 # Choosing a network
 
-Should you create an NFT collection on Ethereum on Polygon? That's a good question. Lets explore the differences between the two and why you might choose to use one over the other.
+Should you create an NFT collection on Ethereum, Polygon, Arbitrum? That's a good question. Lets explore the differences between the two and why you might choose to use one over the other.
 
 ### What is Ethereum and Polygon?
 
