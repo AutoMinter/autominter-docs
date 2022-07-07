@@ -6,7 +6,7 @@ Once you've generated the preview images for your collection, and are happy you 
 
 Press "Add to blockchain"
 
-#### Name your collection
+#### Name of your collection
 
 The name of your colleciton is the name that will appear in marketplaces and on the minting website for your collection. This cannot be changed so make sure it is correct.
 
