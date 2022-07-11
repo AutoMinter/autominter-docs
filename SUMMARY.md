@@ -34,7 +34,7 @@
 * [How to Mint](minting/how-to-mint.md)
 * [Gas Fees](minting/gas-fees.md)
 * [Troubleshooting](minting/troubleshooting.md)
-* [Embed Mint Website](minting/embed-mint-website.md)
+* [Mint on custom website](minting/mint-on-custom-website.md)
 
 ## Whitelists
 
