@@ -1,4 +1,10 @@
-# Embed Mint Website
+---
+description: >-
+  Embed mint buttons on your custom website, so that people can mint on your
+  website
+---
+
+# Mint On Custom Website
 
 You do not have to use AutoMinters mint pages for people to mint your NFTs. If you want more control, you can embed the mint buttons into your own custom website.
 
