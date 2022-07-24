@@ -6,7 +6,7 @@ The whitelist creation tool is available for early beta users to build their acc
 
 Create a list easily, and enter some basic settings about your mint
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 ### Share your signup page
 

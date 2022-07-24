@@ -28,6 +28,7 @@
 * [Toggle public mint](collection-manager/toggle-public-mint.md)
 * [Add mint button to a website](collection-manager/add-mint-button-to-a-website.md)
 * [Changing mint fees](collection-manager/changing-mint-fees.md)
+* [Reserve NFTs](collection-manager/reserve-nfts.md)
 
 ## Minting
 

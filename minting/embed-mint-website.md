@@ -12,7 +12,7 @@ You do not have to use AutoMinters mint pages for people to mint your NFTs. If y
 
 To add a mint button to a website. Expand "more options" in the "mint page" section of your collection.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 Copy the embed code and place it as part of the HTML on your website
 
