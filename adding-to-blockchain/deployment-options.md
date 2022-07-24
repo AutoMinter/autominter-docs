@@ -28,6 +28,28 @@ This is the ammount you will earn on all future transactions when the NFTs are t
 
 You may select a value from 0-10%
 
+
+
+**Mint Allocation**
+
+You can deploy contracts so that people can mint randomly. Or they can mint sequentially. There are a few key differences between these options.\
+\
+Random Mints:
+
+* The NFT on mint is decided randomly
+* Creators are able to airdrop specific NFTs
+* Gas costs more to mint
+* Minting more NFTs will cost more gas
+
+Sequential Mints:
+
+* Uses the new ERC721A contract
+* All mints are in a fixed order (0,1,2,3,4... etc.)
+* The gas price to mint multiple NFTs at once is the same as minting 1
+* Much lower gas to mint
+* You can reserve NFTs allowing you to mint in batches
+* You are not able to airdrop a specific NFT (they in order)
+
 #### Network
 
 You may change the network you deploy too. Depending on the wallet you use, you may need to change this inside your wallet app. Please note, that in order to deploy to a specific network, you must have that network configured inside your crypto wallet. If you have trouble please join our discord or the support of your wallet provider.
