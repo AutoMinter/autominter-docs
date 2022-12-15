@@ -66,6 +66,7 @@
   * [Wallet Connect](fundamentals/ethereum-wallets/wallet-connect.md)
   * [Coinbase Wallet](fundamentals/ethereum-wallets/coinbase-wallet.md)
 * [Change Network](fundamentals/change-network.md)
+* [Export Wallet](fundamentals/export-wallet.md)
 
 ## Pricing
 
